@@ -1,7 +1,8 @@
 = Т36. Запись к врачу. Спецификация требований
+:toc-title: Содержание
 :toc:
 :sectnums:
-:version: 1.0.0
 
 include::requirements.adoc[]
 include::model.adoc[]
+include::interface.adoc[]
